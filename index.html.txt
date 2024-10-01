@@ -26,9 +26,11 @@
 </html>
 
 <title><b><i>HI IM RAGHUVEER S</i></b></title>
+<title2><b>THIS IS MY Tryal website on git</b></title2>
 <body><b><i>this is my favarate bike</i></b>
 <img src=""D:\downloads\_adc481a9-0f4e-42e9-bae4-8b239906310e.jpeg"">
 <img src=""D:\downloads\_adc481a9-0f4e-42e9-bae4-8b239906310e.jpeg"">
+<img src=""D:\downloads\gsm-gps-click-thickbox_default-1.jpg"
 
 </body>
 </html>
